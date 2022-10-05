@@ -1,0 +1,17 @@
+{
+  "args": {
+    "email": "upendravarma1993@gmail.com", 
+    "name": "Upendra", 
+    "number": "8886183899"
+  }, 
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Encoding": "gzip, deflate", 
+    "Host": "httpbin.org", 
+    "User-Agent": "python-requests/2.28.1", 
+    "X-Amzn-Trace-Id": "Root=1-633db6e8-3613009d0326eb7c0268bcdc"
+  }, 
+  "origin": "106.208.29.195", 
+  "url": "https://httpbin.org/get?name=Upendra&email=upendravarma1993%40gmail.com&number=8886183899"
+}
+
